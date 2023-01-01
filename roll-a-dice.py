@@ -19,9 +19,9 @@ while response == "y":
         print("[-----]")
     if no==3:
         print("[-----]")
-        print("[     ]")
-        print("[o o o]")
-        print("[     ]")
+        print("[o    ]")
+        print("[  o  ]")
+        print("[    o]")
         print("[-----]")
     if no==4:
         print("[-----]")
